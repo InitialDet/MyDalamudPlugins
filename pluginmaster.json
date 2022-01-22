@@ -3,7 +3,7 @@
         "Author": "Det",
         "Name": "Auto Hook",
         "InternalName": "AutoHook",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "1.0.1.0",
         "Description": "Hooks for you",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/InitialDet/AutoHook",
@@ -18,6 +18,6 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/master/AutoHook/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1642128030"
+        "LastUpdated": "1642895464"
     }
 ]
