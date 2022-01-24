@@ -1,6 +1,6 @@
 {
   "Author": "Det",
-  "Name": "Select Furniture",
+  "Name": "Target Furniture",
   "InternalName": "TargetFurniture",
   "AssemblyVersion": "1.0.0.0",
   "Description": "Adds a option that lets you select a housing item from the housing menu",
