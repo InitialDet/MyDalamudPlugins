@@ -22,7 +22,7 @@
     },
     {
         "Author": "Det",
-        "Name": "Select Furniture",
+        "Name": "Target Furniture",
         "InternalName": "TargetFurniture",
         "AssemblyVersion": "1.0.0.0",
         "Description": "Adds a option that lets you select a housing item from the housing menu",
@@ -37,6 +37,6 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/master/TargetFurniture/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1643002062"
+        "LastUpdated": "1643002460"
     }
 ]
