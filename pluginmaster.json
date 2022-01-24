@@ -18,6 +18,25 @@
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/master/AutoHook/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1642895464"
+        "LastUpdated": "1642958910"
+    },
+    {
+        "Author": "Det",
+        "Name": "Select Furniture",
+        "InternalName": "TargetFurniture",
+        "AssemblyVersion": "1.0.0.0",
+        "Description": "Adds a option that lets you select a housing item from the housing menu",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "housing"
+        ],
+        "DalamudApiLevel": 5,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/master/TargetFurniture/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/master/TargetFurniture/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/master/TargetFurniture/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "LastUpdated": "1643002062"
     }
 ]
