@@ -2,14 +2,14 @@
   "Author": "Det",
   "Name": "Auto Hook",
   "InternalName": "AutoHook",
-  "AssemblyVersion": "1.0.1.0",
+  "AssemblyVersion": "1.0.1.1",
   "Description": "Hooks for you",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/InitialDet/AutoHook",
   "Tags": [
     "fishing"
   ],
-  "DalamudApiLevel": 5,
+  "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "Punchline": "Auto Hook"
 }
