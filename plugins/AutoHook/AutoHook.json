@@ -1,0 +1,20 @@
+﻿{
+    "Author":  "Det",
+    "Name":  "Auto Hook",
+    "Punchline":  "Makes fishing less boring",
+    "Description":  "It just hooks the fish for you",
+    "IconUrl":  "",
+    "ImageUrls":  [
+                      ""
+                  ],
+    "RepoUrl":  "https://github.com/UnknownX7/DalamudRepoBrowser",
+    "CategoryTags":  [
+                         "other"
+                     ],
+    "InternalName":  "AutoHook",
+    "AssemblyVersion":  "1.0.1.1",
+    "ApplicableVersion":  "any",
+    "DalamudApiLevel":  6,
+    "LoadPriority":  0,
+    "Changelog":  ""
+}
