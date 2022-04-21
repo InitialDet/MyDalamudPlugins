@@ -17,12 +17,12 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/AutoHook/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/plugins/AutoHook/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/AutoHook/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/AutoHook/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/plugins/AutoHook/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/plugins/AutoHook/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1650518498"
+        "LastUpdate": "1650585000"
     }
 ]
