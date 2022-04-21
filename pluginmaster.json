@@ -1,21 +1,28 @@
 [
     {
         "Author": "Det",
-        "Name": "Target Furniture",
-        "InternalName": "TargetFurniture",
-        "AssemblyVersion": "1.0.0.0",
-        "Description": "Adds a option that lets you select a housing item from the housing menu",
+        "Name": "Auto Hook",
+        "Punchline": "Makes fishing less boring",
+        "Description": "It just hooks the fish for you",
+        "Changelog": "",
+        "InternalName": "AutoHook",
+        "AssemblyVersion": "1.0.1.1",
+        "RepoUrl": "https://github.com/UnknownX7/DalamudRepoBrowser",
         "ApplicableVersion": "any",
-        "Tags": [
-            "housing"
+        "CategoryTags": [
+            "other"
         ],
-        "DalamudApiLevel": 5,
-        "LoadPriority": 0,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/master/TargetFurniture/latest.zip",
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/master/TargetFurniture/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/master/TargetFurniture/latest.zip",
+        "DalamudApiLevel": 6,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/AutoHook/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "LastUpdated": "1643002460"
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/AutoHook/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/AutoHook/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1650516050"
     }
 ]
