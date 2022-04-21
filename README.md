@@ -1,3 +1,3 @@
 ```
-https://raw.githubusercontent.com/InitialDet/DalamudPlugins/master/pluginmaster.json
+https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/pluginmaster.json
 ```
