@@ -17,13 +17,13 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/plugins/AutoHook/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/AutoHook/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/plugins/AutoHook/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/plugins/AutoHook/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/AutoHook/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/AutoHook/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1650606924"
+        "LastUpdate": "1650606981"
     },
     {
         "Author": "Det",
@@ -39,12 +39,12 @@
             "Casual"
         ],
         "DalamudApiLevel": 6,
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/plugins/MinionRoulette/latest.zip",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/MinionRoulette/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/plugins/MinionRoulette/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/plugins/MinionRoulette/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/MinionRoulette/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/MinionRoulette/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1650606924"
+        "LastUpdate": "1650606981"
     }
 ]
