@@ -2,7 +2,7 @@
   "Author": "Det",
   "Name": "Minion Roulette",
   "InternalName": "MinionRoulette",
-  "AssemblyVersion": "1.0.0.0",
+  "AssemblyVersion": "1.0.0.1",
   "Description": "If you want only your favorite minions, make sure to mark the checkbox in the minion guide",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/InitialDet/MinionRoulette",
