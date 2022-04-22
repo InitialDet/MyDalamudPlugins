@@ -1,20 +1,20 @@
-﻿{
-    "Author":  "Det",
-    "Name":  "Auto Hook",
-    "Punchline":  "Makes fishing less boring",
-    "Description":  "It just hooks the fish for you",
-    "IconUrl":  "",
-    "ImageUrls":  [
-                      ""
-                  ],
-    "RepoUrl":  "https://github.com/InitialDet/AutoHook",
-    "CategoryTags":  [
-                         "other"
-                     ],
-    "InternalName":  "AutoHook",
-    "AssemblyVersion":  "1.0.1.1",
-    "ApplicableVersion":  "any",
-    "DalamudApiLevel":  6,
-    "LoadPriority":  0,
-    "Changelog":  ""
+{
+  "Author": "Det",
+  "Name": "Auto Hook",
+  "InternalName": "AutoHook",
+  "AssemblyVersion": "1.0.1.1",
+  "Description": "It just hooks the fish for you",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/InitialDet/AutoHook",
+  "CategoryTags": [
+    "other"
+  ],
+  "DalamudApiLevel": 6,
+  "LoadPriority": 0,
+  "ImageUrls": [
+    ""
+  ],
+  "IconUrl": "",
+  "Punchline": "Makes fishing less boring",
+  "Changelog": ""
 }
