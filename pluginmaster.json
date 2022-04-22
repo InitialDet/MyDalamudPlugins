@@ -23,6 +23,28 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/plugins/AutoHook/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/plugins/AutoHook/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1650604788"
+        "LastUpdate": "1650604855"
+    },
+    {
+        "Author": "Det",
+        "Name": "Minion Roulette",
+        "Punchline": "Uses your minion roulette everytime you change zones",
+        "Description": "If you want only your favorite minions, make sure to mark the checkbox in the minion guide",
+        "Changelog": "",
+        "InternalName": "MinionRoulette",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/InitialDet/MinionRoulette",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "Casual"
+        ],
+        "DalamudApiLevel": 6,
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/plugins/MinionRoulette/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/plugins/MinionRoulette/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/DalamudPlugins/main/plugins/MinionRoulette/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1650604855"
     }
 ]
