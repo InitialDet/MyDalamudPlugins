@@ -2,7 +2,7 @@
   "Author": "Det",
   "Name": "Auto Hook",
   "InternalName": "AutoHook",
-  "AssemblyVersion": "1.0.1.1",
+  "AssemblyVersion": "1.0.2.0",
   "Description": "It just hooks the fish for you",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/InitialDet/AutoHook",
@@ -16,5 +16,5 @@
   ],
   "IconUrl": "",
   "Punchline": "Makes fishing less boring",
-  "Changelog": ""
+  "Changelog": "Add new option and Chat Commands to disable AutoHook"
 }
