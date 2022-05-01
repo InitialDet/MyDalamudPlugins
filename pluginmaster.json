@@ -20,16 +20,16 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/MinionRoulette/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/MinionRoulette/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1651346875"
+        "LastUpdate": "1651387734"
     },
     {
         "Author": "Det",
         "Name": "Auto Hook",
         "Punchline": "Makes fishing less boring",
         "Description": "It just hooks the fish for you",
-        "Changelog": "",
+        "Changelog": "Add new option and Chat Commands to disable AutoHook",
         "InternalName": "AutoHook",
-        "AssemblyVersion": "1.0.1.1",
+        "AssemblyVersion": "1.0.2.0",
         "RepoUrl": "https://github.com/InitialDet/AutoHook",
         "ApplicableVersion": "any",
         "CategoryTags": [
@@ -46,6 +46,6 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/AutoHook/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/AutoHook/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1651346875"
+        "LastUpdate": "1651387734"
     }
 ]
