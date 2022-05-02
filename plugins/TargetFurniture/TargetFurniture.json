@@ -12,6 +12,10 @@
   ],
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
+  "ImageUrls": [
+    "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/images/image1.png"
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/images/icon.png",
   "Punchline": "Adds an option that let you Select/Move an housing item from the Housing Menu",
   "Changelog": ""
 }
