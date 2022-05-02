@@ -63,6 +63,10 @@
             "Housing"
         ],
         "DalamudApiLevel": 6,
+        "IconUrl": "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/images/icon.png",
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/images/image1.png"
+        ],
         "DownloadLinkInstall": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/TargetFurniture/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
