@@ -24,7 +24,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/TargetFurniture/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/TargetFurniture/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1652384518"
+        "LastUpdate": "1652384740"
     },
     {
         "Author": "Det",
@@ -47,7 +47,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/MinionRoulette/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/MinionRoulette/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1652384518"
+        "LastUpdate": "1652384740"
     },
     {
         "Author": "Det",
@@ -56,7 +56,7 @@
         "Description": "It just hooks the fish for you",
         "Changelog": "Add new option and Chat Commands to disable AutoHook",
         "InternalName": "AutoHook",
-        "AssemblyVersion": "1.0.2.3",
+        "AssemblyVersion": "1.0.2.4",
         "RepoUrl": "https://github.com/InitialDet/AutoHook",
         "ApplicableVersion": "any",
         "CategoryTags": [
@@ -73,6 +73,6 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/AutoHook/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/AutoHook/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1652384518"
+        "LastUpdate": "1652384740"
     }
 ]
