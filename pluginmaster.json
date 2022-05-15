@@ -6,7 +6,7 @@
         "Description": "Currently, the only possible way to select a housing item is to click it manually with your mouse over it, and that can be a problem if you have multiple items close to each other.\nThis plugin adds a new option when right-clicking an item from the Housing Menu that targets the item for you, saving you a lot of trouble.",
         "Changelog": "Added an alternative targeting option",
         "InternalName": "TargetFurniture",
-        "AssemblyVersion": "1.0.1.0",
+        "AssemblyVersion": "1.0.1.1",
         "RepoUrl": "https://github.com/InitialDet/TargetFurniture",
         "ApplicableVersion": "any",
         "CategoryTags": [
@@ -24,7 +24,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/TargetFurniture/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/TargetFurniture/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1652384740"
+        "LastUpdate": "1652584971"
     },
     {
         "Author": "Det",
@@ -47,7 +47,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/MinionRoulette/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/MinionRoulette/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1652384740"
+        "LastUpdate": "1652584971"
     },
     {
         "Author": "Det",
@@ -73,6 +73,6 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/AutoHook/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/AutoHook/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1652384740"
+        "LastUpdate": "1652584971"
     }
 ]
