@@ -2,12 +2,12 @@
   "Author": "Det",
   "Name": "Auto Hook",
   "InternalName": "AutoHook",
-  "AssemblyVersion": "1.0.2.4",
-  "Description": "It just hooks the fish for you",
+  "AssemblyVersion": "2.0.0.0",
+  "Description": "It hooks the fish for you, can you believe it?",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/InitialDet/AutoHook",
   "CategoryTags": [
-    "other"
+    "Gathering"
   ],
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
@@ -15,6 +15,6 @@
     ""
   ],
   "IconUrl": "",
-  "Punchline": "Makes fishing less boring",
-  "Changelog": "Add new option and Chat Commands to disable AutoHook"
+  "Punchline": "Makes fishing less (or more) boring",
+  "Changelog": "Plugin completly rewritten, it now includes individual mooch/bait configuration and more."
 }
