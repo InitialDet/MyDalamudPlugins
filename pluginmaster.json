@@ -24,7 +24,33 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/TargetFurniture/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/TargetFurniture/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1652587731"
+        "LastUpdate": "1653368877"
+    },
+    {
+        "Author": "Det",
+        "Name": "Auto Hook",
+        "Punchline": "Makes fishing less (or more) boring",
+        "Description": "It hooks the fish for you, can you believe it?",
+        "Changelog": "Plugin completly rewritten, it now includes individual mooch/bait configuration and more.",
+        "InternalName": "AutoHook",
+        "AssemblyVersion": "2.0.0.0",
+        "RepoUrl": "https://github.com/InitialDet/AutoHook",
+        "ApplicableVersion": "any",
+        "CategoryTags": [
+            "Gathering"
+        ],
+        "DalamudApiLevel": 6,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/AutoHook/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/AutoHook/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/AutoHook/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1653368877"
     },
     {
         "Author": "Det",
@@ -47,32 +73,6 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/MinionRoulette/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/MinionRoulette/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1652587731"
-    },
-    {
-        "Author": "Det",
-        "Name": "Auto Hook",
-        "Punchline": "Makes fishing less boring",
-        "Description": "It just hooks the fish for you",
-        "Changelog": "Add new option and Chat Commands to disable AutoHook",
-        "InternalName": "AutoHook",
-        "AssemblyVersion": "1.0.2.4",
-        "RepoUrl": "https://github.com/InitialDet/AutoHook",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "other"
-        ],
-        "DalamudApiLevel": 6,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/AutoHook/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/AutoHook/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/AutoHook/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1652587731"
+        "LastUpdate": "1653368877"
     }
 ]
