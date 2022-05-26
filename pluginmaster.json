@@ -24,7 +24,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/TargetFurniture/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/TargetFurniture/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1653456439"
+        "LastUpdate": "1653523876"
     },
     {
         "Author": "Det",
@@ -33,7 +33,7 @@
         "Description": "It hooks the fish for you, can you believe it?",
         "Changelog": "Plugin completly rewritten, it now includes individual mooch/bait configuration and more.",
         "InternalName": "AutoHook",
-        "AssemblyVersion": "2.0.2.2",
+        "AssemblyVersion": "2.0.2.3",
         "RepoUrl": "https://github.com/InitialDet/AutoHook",
         "ApplicableVersion": "any",
         "CategoryTags": [
@@ -50,7 +50,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/AutoHook/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/AutoHook/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1653456439"
+        "LastUpdate": "1653523876"
     },
     {
         "Author": "Det",
@@ -73,6 +73,6 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/MinionRoulette/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/MinionRoulette/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1653456439"
+        "LastUpdate": "1653523876"
     }
 ]
