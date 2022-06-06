@@ -2,7 +2,7 @@
   "Author": "Det",
   "Name": "Auto Hook",
   "InternalName": "AutoHook",
-  "AssemblyVersion": "2.0.2.3",
+  "AssemblyVersion": "2.1.0.0",
   "Description": "It hooks the fish for you, can you believe it?",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/InitialDet/AutoHook",
@@ -16,5 +16,5 @@
   ],
   "IconUrl": "",
   "Punchline": "Makes fishing less (or more) boring",
-  "Changelog": "Plugin completly rewritten, it now includes individual mooch/bait configuration and more."
+  "Changelog": "Added Auto Cast/Mooch and selectable Patience Hooksets."
 }
