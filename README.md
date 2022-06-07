@@ -3,6 +3,6 @@ https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.
 ```
 AutoHook - https://github.com/InitialDet/AutoHook 
 
-Minion Roulette -https://github.com/InitialDet/MinionRoulette
+Minion Roulette - https://github.com/InitialDet/MinionRoulette
 
-Target Furniture -https://github.com/InitialDet/TargetFurniture
+Target Furniture - https://github.com/InitialDet/TargetFurniture
