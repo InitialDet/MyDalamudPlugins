@@ -2,7 +2,7 @@
   "Author": "Det",
   "Name": "Minion Roulette",
   "InternalName": "MinionRoulette",
-  "AssemblyVersion": "1.1.0.0",
+  "AssemblyVersion": "1.1.1.0",
   "Description": "Make sure to enable the checkbox in the Minion Guide if you want only your favorite minions to be swapped",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/InitialDet/MinionRoulette",
@@ -12,6 +12,10 @@
   ],
   "DalamudApiLevel": 6,
   "LoadPriority": 0,
+  "ImageUrls": [
+    ""
+  ],
+  "IconUrl": "https://raw.githubusercontent.com/InitialDet/MinionRoulette/main/MinionRoulette/images/icon.png",
   "Punchline": "Swaps your minions everytime you change zones",
-  "Changelog": "Add a better Zone Change detection and some code cleanup"
+  "Changelog": "Added a toggle to enable/disable the plugin. Now Minions wont be resummoned if dismissed. New icon by Vec7rex"
 }
