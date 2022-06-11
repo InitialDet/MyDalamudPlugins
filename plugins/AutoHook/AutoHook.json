@@ -2,7 +2,7 @@
   "Author": "Det",
   "Name": "Auto Hook",
   "InternalName": "AutoHook",
-  "AssemblyVersion": "2.1.1.3",
+  "AssemblyVersion": "2.1.2.0",
   "Description": "It hooks the fish for you, can you believe it?",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/InitialDet/AutoHook",
@@ -17,5 +17,5 @@
   ],
   "IconUrl": "https://raw.githubusercontent.com/InitialDet/AutoHook/main/AutoHook/images/icon.png",
   "Punchline": "Makes fishing less (or more) boring",
-  "Changelog": "Added more Auto Casts options"
+  "Changelog": "Added Chum and Fish Eyes for Auto Casts, New icon By Vec7rex"
 }
