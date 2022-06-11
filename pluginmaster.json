@@ -24,7 +24,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/AutoHook/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/AutoHook/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1654960128"
+        "LastUpdate": "1654988286"
     },
     {
         "Author": "Det",
@@ -51,16 +51,16 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/TargetFurniture/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/TargetFurniture/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1654960128"
+        "LastUpdate": "1654988286"
     },
     {
         "Author": "Det",
         "Name": "Minion Roulette",
         "Punchline": "Swaps your minions everytime you change zones",
         "Description": "Make sure to enable the checkbox in the Minion Guide if you want only your favorite minions to be swapped",
-        "Changelog": "Add a better Zone Change detection and some code cleanup",
+        "Changelog": "Added a toggle to enable/disable the plugin. Now Minions wont be resummoned if dismissed. New icon by Vec7rex",
         "InternalName": "MinionRoulette",
-        "AssemblyVersion": "1.1.0.0",
+        "AssemblyVersion": "1.1.1.0",
         "RepoUrl": "https://github.com/InitialDet/MinionRoulette",
         "ApplicableVersion": "any",
         "CategoryTags": [
@@ -68,12 +68,16 @@
             "Minion"
         ],
         "DalamudApiLevel": 6,
+        "IconUrl": "https://raw.githubusercontent.com/InitialDet/MinionRoulette/main/MinionRoulette/images/icon.png",
+        "ImageUrls": [
+            ""
+        ],
         "DownloadLinkInstall": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/MinionRoulette/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/MinionRoulette/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/MinionRoulette/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1654960128"
+        "LastUpdate": "1654988286"
     }
 ]
