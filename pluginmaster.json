@@ -14,7 +14,7 @@
       "Fishing"
     ],
     "InternalName": "AutoHook",
-    "AssemblyVersion": "",
+    "AssemblyVersion": "2.1.2.0",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
@@ -42,7 +42,7 @@
       "Minion"
     ],
     "InternalName": "MinionRoulette",
-    "AssemblyVersion": "",
+    "AssemblyVersion": "1.1.1.1",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
@@ -70,7 +70,7 @@
       "Housing"
     ],
     "InternalName": "TargetFurniture",
-    "AssemblyVersion": "",
+    "AssemblyVersion": "1.0.1.2",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
     "LoadPriority": 0,
