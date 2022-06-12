@@ -24,7 +24,7 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/AutoHook/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/AutoHook/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1654993272"
+        "LastUpdate": "1654996345"
     },
     {
         "Author": "Det",
@@ -51,12 +51,12 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/TargetFurniture/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/TargetFurniture/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1654993272"
+        "LastUpdate": "1654996345"
     },
     {
         "Author": "Det",
         "Name": "Minion Roulette",
-        "Punchline": "Swaps your minions every time you change zones",
+        "Punchline": "Swap between your minions every time you change zones",
         "Description": "Make sure to enable the checkbox in the Minion Guide if you want only your favorite minions to be swapped",
         "Changelog": "Added a toggle to enable/disable the plugin. Now Minions wont be resummoned if dismissed. New icon by Vec7rex",
         "InternalName": "MinionRoulette",
@@ -78,6 +78,6 @@
         "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/MinionRoulette/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/MinionRoulette/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1654993272"
+        "LastUpdate": "1654996345"
     }
 ]
