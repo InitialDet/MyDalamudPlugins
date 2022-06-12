@@ -16,7 +16,7 @@ foreach ($plugin in $pluginList) {
 
   # Get data from the api request.
   $count = $json.assets[0].download_count
-  $assembly = $json.assets[0].tag_name
+  $assembly = $json.tag_name
   
   $download = $json.assets[0].browser_download_url
   # Get timestamp for the release.
