@@ -20,12 +20,12 @@
     "Changelog": "Added Chum and Fish Eyes for Auto Casts, New icon By Vec7rex",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "2.1.2.0",
-    "LastUpdated": 1655018787,
-    "DownloadCount": 3,
-    "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.1.2.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.1.2.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.1.2.0/latest.zip"
+    "AssemblyVersion": "2.1.2.1",
+    "LastUpdated": 1655027789,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.1.2.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.1.2.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.1.2.1/latest.zip"
   },
   {
     "Author": "Det",
@@ -50,7 +50,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.1.1.1",
     "LastUpdated": 1655021508,
-    "DownloadCount": 2,
+    "DownloadCount": 4,
     "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.1.1/latest.zip",
     "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.1.1/latest.zip"
