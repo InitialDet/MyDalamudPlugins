@@ -16,6 +16,8 @@ foreach ($plugin in $pluginList) {
 
   # Get data from the api request.
   $count = $json.assets[0].download_count
+  #$assembly = $json.assets[0].tag_name
+  
   $download = $json.assets[0].browser_download_url
   # Get timestamp for the release.
   $time = [Int](New-TimeSpan -Start (Get-Date "01/01/1970") -End ([DateTime]$json.published_at)).TotalSeconds
@@ -35,6 +37,7 @@ foreach ($plugin in $pluginList) {
   $config | Add-Member -Name "IsTestingExclusive" -MemberType NoteProperty -Value "False"
   $config | Add-Member -Name "LastUpdated" -MemberType NoteProperty -Value $time
   $config | Add-Member -Name "DownloadCount" -MemberType NoteProperty -Value $count
+  #$config | Add-Member -Name "AssemblyVersion" -MemberType NoteProperty -Value $assembly
   $config | Add-Member -Name "DownloadLinkInstall" -MemberType NoteProperty -Value $download
   $config | Add-Member -Name "DownloadLinkTesting" -MemberType NoteProperty -Value $download
   $config | Add-Member -Name "DownloadLinkUpdate" -MemberType NoteProperty -Value $download
