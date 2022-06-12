@@ -2,7 +2,7 @@
   "Author": "Det",
   "Name": "Minion Roulette",
   "InternalName": "MinionRoulette",
-  "AssemblyVersion": "1.1.1.0",
+  "AssemblyVersion": "1.1.1.1",
   "Description": "Make sure to enable the checkbox in the Minion Guide if you want only your favorite minions to be swapped",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/InitialDet/MinionRoulette",
