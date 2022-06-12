@@ -22,7 +22,7 @@
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "LastUpdated": 1655018787,
-    "DownloadCount": 0,
+    "DownloadCount": 1,
     "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.1.2.0/latest.zip",
     "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.1.2.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.1.2.0/latest.zip"
@@ -60,14 +60,14 @@
     "Name": "Target Furniture",
     "Punchline": "Adds an option that lets you Select/Move a housing item from the Housing Menu",
     "Description": "Currently, the only possible way to select a housing item is to click it manually with your mouse over it, and that can be a problem if you have multiple items close to each other.\nThis plugin adds a new option when right-clicking an item from the Housing Menu that targets the item for you, saving you a lot of trouble.",
+    "IconUrl": "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/TargetFurniture/images/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/TargetFurniture/images/image1.png"
+    ],
     "RepoUrl": "https://github.com/InitialDet/TargetFurniture",
     "CategoryTags": [
       "Casual",
       "Housing"
-    ],
-    "IconUrl": "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/TargetFurniture/images/icon.png",
-    "ImageUrls": [
-      "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/TargetFurniture/images/image1.png"
     ],
     "InternalName": "TargetFurniture",
     "AssemblyVersion": "",
