@@ -51,7 +51,7 @@ foreach ($plugin in $pluginList) {
 $pluginJson = ConvertTo-Json $pluginsOut
 
 # Save repo to file
-Set-Content -Path "pluginmaster.json" -Value $pluginJson
+Set-Content -Path "pluginList.json" -Value $pluginJson
 
 # Function to exit with a specific code.
 function ExitWithCode($code) {
