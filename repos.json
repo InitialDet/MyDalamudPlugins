@@ -1,0 +1,23 @@
+[
+  {
+    "username": "InitialDet",
+    "pluginName": "AutoHook",
+    "repo": "AutoHook",
+    "branch": "main",
+    "configFolder": "AutoHook"
+  },
+  {
+    "username": "InitialDet",
+    "pluginName": "MinionRoulette",
+    "repo": "MinionRoulette",
+    "branch": "main",
+    "configFolder": "MinionRoulette"
+  },
+  {
+    "username": "InitialDet",
+    "pluginName": "TargetFurniture",
+    "repo": "TargetFurniture",
+    "branch": "main",
+    "configFolder": "TargetFurniture"
+  }
+]
