@@ -1,83 +1,30 @@
 [
-    {
-        "Author": "Det",
-        "Name": "Auto Hook",
-        "Punchline": "Makes fishing less (or more) boring",
-        "Description": "It hooks the fish for you, can you believe it?",
-        "Changelog": "Added Chum and Fish Eyes for Auto Casts, New icon By Vec7rex",
-        "InternalName": "AutoHook",
-        "AssemblyVersion": "2.1.2.0",
-        "RepoUrl": "https://github.com/InitialDet/AutoHook",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "Gathering",
-            "Fishing"
-        ],
-        "DalamudApiLevel": 6,
-        "IconUrl": "https://raw.githubusercontent.com/InitialDet/AutoHook/main/AutoHook/images/icon.png",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/AutoHook/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/AutoHook/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/AutoHook/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1654996345"
-    },
-    {
-        "Author": "Det",
-        "Name": "Target Furniture",
-        "Punchline": "Adds an option that lets you Select/Move a housing item from the Housing Menu",
-        "Description": "Currently, the only possible way to select a housing item is to click it manually with your mouse over it, and that can be a problem if you have multiple items close to each other.\nThis plugin adds a new option when right-clicking an item from the Housing Menu that targets the item for you, saving you a lot of trouble.",
-        "Changelog": "Added a new option that makes the furniture follow the point of your cursor",
-        "InternalName": "TargetFurniture",
-        "AssemblyVersion": "1.0.1.2",
-        "RepoUrl": "https://github.com/InitialDet/TargetFurniture",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "Casual",
-            "Housing"
-        ],
-        "DalamudApiLevel": 6,
-        "IconUrl": "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/TargetFurniture/images/icon.png",
-        "ImageUrls": [
-            "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/TargetFurniture/images/image1.png"
-        ],
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/TargetFurniture/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/TargetFurniture/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/TargetFurniture/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1654996345"
-    },
-    {
-        "Author": "Det",
-        "Name": "Minion Roulette",
-        "Punchline": "Swap between your minions every time you change zones",
-        "Description": "Make sure to enable the checkbox in the Minion Guide if you want only your favorite minions to be swapped",
-        "Changelog": "Added a toggle to enable/disable the plugin. Now Minions wont be resummoned if dismissed. New icon by Vec7rex",
-        "InternalName": "MinionRoulette",
-        "AssemblyVersion": "1.1.1.1",
-        "RepoUrl": "https://github.com/InitialDet/MinionRoulette",
-        "ApplicableVersion": "any",
-        "CategoryTags": [
-            "Casual",
-            "Minion"
-        ],
-        "DalamudApiLevel": 6,
-        "IconUrl": "https://raw.githubusercontent.com/InitialDet/MinionRoulette/main/MinionRoulette/images/icon.png",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/MinionRoulette/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/MinionRoulette/latest.zip",
-        "DownloadLinkUpdate": "https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/plugins/MinionRoulette/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1654996345"
-    }
+  {
+    "Author": "Det",
+    "Name": "Auto Hook",
+    "Punchline": "Makes fishing less (or more) boring",
+    "Description": "It hooks the fish for you, can you believe it?",
+    "IconUrl": "https://raw.githubusercontent.com/InitialDet/AutoHook/main/AutoHook/images/icon.png",
+    "ImageUrls": [
+      ""
+    ],
+    "RepoUrl": "https://github.com/InitialDet/AutoHook",
+    "CategoryTags": [
+      "Gathering",
+      "Fishing"
+    ],
+    "InternalName": "AutoHook",
+    "AssemblyVersion": "",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 6,
+    "LoadPriority": 0,
+    "Changelog": "Added Chum and Fish Eyes for Auto Casts, New icon By Vec7rex",
+    "IsHide": "False",
+    "IsTestingExclusive": "False",
+    "LastUpdated": 1655018787,
+    "DownloadCount": 1,
+    "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.1.2.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.1.2.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.1.2.0/latest.zip"
+  }
 ]
