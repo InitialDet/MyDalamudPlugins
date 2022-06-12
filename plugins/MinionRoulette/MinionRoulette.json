@@ -16,6 +16,6 @@
     ""
   ],
   "IconUrl": "https://raw.githubusercontent.com/InitialDet/MinionRoulette/main/MinionRoulette/images/icon.png",
-  "Punchline": "Swaps your minions every time you change zones",
+  "Punchline": "Swap between your minions every time you change zones",
   "Changelog": "Added a toggle to enable/disable the plugin. Now Minions wont be resummoned if dismissed. New icon by Vec7rex"
 }
