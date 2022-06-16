@@ -19,12 +19,5 @@
     "repo": "TargetFurniture",
     "branch": "main",
     "configFolder": "TargetFurniture"
-  },
-  {
-    "username": "InitialDet",
-    "pluginName": "Penumbra",
-    "repo": "LoglessPenumbra",
-    "branch": "master",
-    "configFolder": "Penumbra"
   }
 ]
