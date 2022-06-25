@@ -13,15 +13,15 @@
     ],
     "DalamudApiLevel": 6,
     "IconUrl": "https://raw.githubusercontent.com/InitialDet/AutoHook/main/AutoHook/images/icon.png",
-    "Changelog": "Added Chum and Fish Eyes for Auto Casts, New icon By Vec7rex",
+    "Changelog": "*NEW*\n- Added a new hooking configuration when under the effect of Fisher's Intuitions\n- Added Auto Use Cordials\n- Added Auto Surface Slap/Identical Cast (Custom config only)\n\n*Adjustments*\n- Added variable delay between casts\n- Some UI tweaks",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "2.1.2.1",
-    "LastUpdated": 1655027789,
-    "DownloadCount": 557,
-    "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.1.2.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.1.2.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.1.2.1/latest.zip"
+    "AssemblyVersion": "2.2.0.0",
+    "LastUpdated": 1656185725,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.2.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.2.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.2.0.0/latest.zip"
   },
   {
     "Author": "Det",
@@ -49,7 +49,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.1.1.1",
     "LastUpdated": 1655021508,
-    "DownloadCount": 86,
+    "DownloadCount": 88,
     "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.1.1/latest.zip",
     "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.1.1/latest.zip"
