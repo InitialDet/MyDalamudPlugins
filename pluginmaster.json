@@ -16,12 +16,12 @@
     "Changelog": "*NEW*\n- Added an option to stop fishing when X amount of fish is caught",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "2.2.1.0",
-    "LastUpdated": 1656922284,
-    "DownloadCount": 85,
-    "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.2.1.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.2.1.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.2.1.0/latest.zip"
+    "AssemblyVersion": "2.2.1.1",
+    "LastUpdated": 1657048022,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.2.1.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.2.1.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.2.1.1/latest.zip"
   },
   {
     "Author": "Det",
@@ -49,7 +49,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.1.1.1",
     "LastUpdated": 1655021508,
-    "DownloadCount": 109,
+    "DownloadCount": 113,
     "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.1.1/latest.zip",
     "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.1.1/latest.zip"
