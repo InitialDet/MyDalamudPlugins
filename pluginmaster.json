@@ -16,12 +16,12 @@
     "Changelog": "- Added an option to not cancel current mooch when using Auto Casts\n- Fixed an issue with \"Stop Fishing After\"",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "2.2.2.0",
-    "LastUpdated": 1659144621,
+    "AssemblyVersion": "2.2.2.1",
+    "LastUpdated": 1659158887,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.2.2.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.2.2.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.2.2.0/latest.zip"
+    "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.2.2.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.2.2.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.2.2.1/latest.zip"
   },
   {
     "Author": "Det",
