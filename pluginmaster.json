@@ -13,15 +13,15 @@
     ],
     "DalamudApiLevel": 6,
     "IconUrl": "https://raw.githubusercontent.com/InitialDet/AutoHook/main/AutoHook/images/icon.png",
-    "Changelog": "- Added an option to not cancel current mooch when using Auto Casts\n- Fixed an issue with \"Stop Fishing After\"",
+    "Changelog": "- Trying to add support for CN server",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "2.2.2.1",
-    "LastUpdated": 1659158887,
-    "DownloadCount": 1149,
-    "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.2.2.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.2.2.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.2.2.1/latest.zip"
+    "AssemblyVersion": "2.2.2.2",
+    "LastUpdated": 1660533893,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.2.2.2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.2.2.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.2.2.2/latest.zip"
   },
   {
     "Author": "Det",
