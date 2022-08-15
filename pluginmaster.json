@@ -13,15 +13,15 @@
     ],
     "DalamudApiLevel": 6,
     "IconUrl": "https://raw.githubusercontent.com/InitialDet/AutoHook/main/AutoHook/images/icon.png",
-    "Changelog": "- Trying to add support for CN server",
+    "Changelog": "- Trying to add support for CN server \n- Fixing problems with collectable fish",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "2.2.2.2",
-    "LastUpdated": 1660533893,
+    "AssemblyVersion": "2.2.2.3",
+    "LastUpdated": 1660535872,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.2.2.2/latest.zip",
-    "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.2.2.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.2.2.2/latest.zip"
+    "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.2.2.3/latest.zip",
+    "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.2.2.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.2.2.3/latest.zip"
   },
   {
     "Author": "Det",
