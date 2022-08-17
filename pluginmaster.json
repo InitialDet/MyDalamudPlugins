@@ -16,12 +16,12 @@
     "Changelog": "- Added an experimental anti-AFK prevention\n- Trying to add support for CN server \n- Fixing problems with collectable fish\n- Added a new option to use Double/Triple Hooks only when Identical Cast is Enabled",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "2.2.3.0",
-    "LastUpdated": 1660545898,
-    "DownloadCount": 783,
-    "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.2.3.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.2.3.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.2.3.0/latest.zip"
+    "AssemblyVersion": "2.2.3.1",
+    "LastUpdated": 1660771580,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.2.3.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.2.3.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.2.3.1/latest.zip"
   },
   {
     "Author": "Det",
