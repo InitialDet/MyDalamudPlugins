@@ -12,12 +12,5 @@
     "repo": "MinionRoulette",
     "branch": "main",
     "configFolder": "MinionRoulette"
-  },
-  {
-    "username": "InitialDet",
-    "pluginName": "TargetFurniture",
-    "repo": "TargetFurniture",
-    "branch": "main",
-    "configFolder": "TargetFurniture"
   }
 ]
