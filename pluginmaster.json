@@ -18,7 +18,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "2.2.3.2",
     "LastUpdated": 1661351873,
-    "DownloadCount": 0,
+    "DownloadCount": 467,
     "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.2.3.2/latest.zip",
     "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.2.3.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.2.3.2/latest.zip"
@@ -53,36 +53,5 @@
     "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.1.1/latest.zip",
     "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.1.1/latest.zip"
-  },
-  {
-    "Author": "Det",
-    "Name": "Target Furniture",
-    "Punchline": "Adds an option that lets you Select/Move a housing item from the Housing Menu",
-    "Description": "Currently, the only possible way to select a housing item is to click it manually with your mouse over it, and that can be a problem if you have multiple items close to each other.\nThis plugin adds a new option when right-clicking an item from the Housing Menu that targets the item for you, saving you a lot of trouble.",
-    "IconUrl": "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/TargetFurniture/images/icon.png",
-    "ImageUrls": [
-      "https://raw.githubusercontent.com/InitialDet/TargetFurniture/main/TargetFurniture/images/image1.png"
-    ],
-    "RepoUrl": "https://github.com/InitialDet/TargetFurniture",
-    "Tags": [
-      "Casual",
-      "Housing"
-    ],
-    "CategoryTags": [
-      "utility"
-    ],
-    "InternalName": "TargetFurniture",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 7,
-    "LoadPriority": 0,
-    "Changelog": "6.2 update",
-    "IsHide": "False",
-    "IsTestingExclusive": "False",
-    "AssemblyVersion": "1.0.1.4",
-    "LastUpdated": 1661350280,
-    "DownloadCount": 7,
-    "DownloadLinkInstall": "https://github.com/InitialDet/TargetFurniture/releases/download/1.0.1.4/latest.zip",
-    "DownloadLinkTesting": "https://github.com/InitialDet/TargetFurniture/releases/download/1.0.1.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/InitialDet/TargetFurniture/releases/download/1.0.1.4/latest.zip"
   }
 ]
