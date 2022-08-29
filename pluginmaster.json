@@ -18,7 +18,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "2.2.3.2",
     "LastUpdated": 1661351873,
-    "DownloadCount": 1114,
+    "DownloadCount": 1130,
     "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.2.3.2/latest.zip",
     "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.2.3.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.2.3.2/latest.zip"
@@ -42,16 +42,16 @@
     ],
     "InternalName": "MinionRoulette",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 6,
+    "DalamudApiLevel": 7,
     "LoadPriority": 0,
     "Changelog": "Added a toggle to enable/disable the plugin. Now Minions wont be resummoned if dismissed. New icon by Vec7rex",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "1.1.1.1",
-    "LastUpdated": 1655021508,
-    "DownloadCount": 219,
-    "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.1.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.1.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.1.1/latest.zip"
+    "AssemblyVersion": "1.1.1.2",
+    "LastUpdated": 1661796377,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.1.2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.1.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.1.2/latest.zip"
   }
 ]
