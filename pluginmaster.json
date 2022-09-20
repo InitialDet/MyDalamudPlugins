@@ -16,12 +16,12 @@
     "Changelog": "- New AutoGig (spearfishing) Option\n- Added GP management for autocast\n- Added selectable Tugs for Double/Triple hook\n\n-- Small changes --\n- Adjustments to the UI\n- A lot of code refactor\n- Some bugfixes",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "2.3.0.0",
-    "LastUpdated": 1663654069,
-    "DownloadCount": 422,
-    "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.3.0.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.3.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.3.0.0/latest.zip"
+    "AssemblyVersion": "2.3.0.1",
+    "LastUpdated": 1663706148,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.3.0.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.3.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.3.0.1/latest.zip"
   },
   {
     "Author": "Det",
@@ -49,7 +49,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.1.2.0",
     "LastUpdated": 1662492357,
-    "DownloadCount": 152,
+    "DownloadCount": 153,
     "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.0/latest.zip",
     "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.0/latest.zip"
