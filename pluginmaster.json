@@ -42,16 +42,16 @@
     ],
     "InternalName": "MinionRoulette",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 7,
+    "DalamudApiLevel": 8,
     "LoadPriority": 0,
     "Changelog": "Disabled on Island Sanctuary, since it removed minions placed there",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "1.1.2.0",
-    "LastUpdated": 1662492357,
-    "DownloadCount": 358,
-    "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.0/latest.zip"
+    "AssemblyVersion": "1.1.2.1",
+    "LastUpdated": 1673472800,
+    "DownloadCount": null,
+    "DownloadLinkInstall": null,
+    "DownloadLinkTesting": null,
+    "DownloadLinkUpdate": null
   }
 ]
