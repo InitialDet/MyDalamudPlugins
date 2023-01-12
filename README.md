@@ -7,7 +7,7 @@ https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.
 * Go to the Experimental Tab
 * Paste the link into the Custom Plugin Repositories, and click the + on the right to add it.
 * Save and close.
-* Search and Install AutoHook from the Plugin Installer.
+* Search and Install from the Plugin Installer.
 * Enjoy
 
 ## My Plugins
