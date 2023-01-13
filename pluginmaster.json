@@ -17,12 +17,12 @@
     "Changelog": "- Presets for custom baits added, you can now swap configs without needing to recreate it every time\n- Added an option to only cast Chum when under the effect of Fisher's Intuition\n- Added an option to only cast Prize Catch when Mooch II is not available, saving you 100gp if all you want is to mooch\n- Added Custom Timer when under the effect of Chum\n- Added an option to only use Prize Catch when under the effect of Identical Cast\n- Upgrade to .net7 and API8",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "2.4.0.0",
-    "LastUpdated": 1673583706,
+    "AssemblyVersion": "2.4.0.1",
+    "LastUpdated": 1673591002,
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.4.0.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.4.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.4.0.0/latest.zip"
+    "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.4.0.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.4.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.4.0.1/latest.zip"
   },
   {
     "Author": "Det",
