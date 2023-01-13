@@ -11,17 +11,18 @@
       "Gathering",
       "Fishing"
     ],
-    "DalamudApiLevel": 7,
+    "DalamudApiLevel": 8,
+    "AcceptsFeedback": false,
     "IconUrl": "https://raw.githubusercontent.com/InitialDet/AutoHook/main/AutoHook/images/icon.png",
-    "Changelog": "- New AutoGig (spearfishing) Option\n- Added GP management for autocast\n- Added selectable Tugs for Double/Triple hook\n\n-- Small changes --\n- Adjustments to the UI\n- A lot of code refactor\n- Some bugfixes",
+    "Changelog": "- Presets for custom baits added, you can now swap configs without needing to recreate it every time\n- Added an option to only cast Chum when under the effect of Fisher's Intuition\n- Added an option to only cast Prize Catch when Mooch II is not available, saving you 100gp if all you want is to mooch\n-Upgrade to .net7 and API8\n\n-- Small changes --\n- Adjustments to the UI\n- A lot of code refactor\n- Some bugfixes",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "2.3.0.3",
-    "LastUpdated": 1665014441,
-    "DownloadCount": 3988,
-    "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.3.0.3/latest.zip",
-    "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.3.0.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.3.0.3/latest.zip"
+    "AssemblyVersion": "2.4.0.0",
+    "LastUpdated": 1673583706,
+    "DownloadCount": null,
+    "DownloadLinkInstall": null,
+    "DownloadLinkTesting": null,
+    "DownloadLinkUpdate": null
   },
   {
     "Author": "Det",
@@ -49,7 +50,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.1.2.1",
     "LastUpdated": 1673472800,
-    "DownloadCount": 0,
+    "DownloadCount": 17,
     "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.1/latest.zip",
     "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.1/latest.zip"
