@@ -17,12 +17,12 @@
     "Changelog": "Click the new Changelog button to see whats new",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "2.4.2.3",
-    "LastUpdated": 1675175922,
-    "DownloadCount": 3057,
-    "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.4.2.3/latest.zip",
-    "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.4.2.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.4.2.3/latest.zip"
+    "AssemblyVersion": "2.4.3.0",
+    "LastUpdated": 1677362757,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.4.3.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.4.3.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.4.3.0/latest.zip"
   },
   {
     "Author": "Det",
@@ -50,7 +50,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.1.2.3",
     "LastUpdated": 1674001897,
-    "DownloadCount": 248,
+    "DownloadCount": 259,
     "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
     "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip"
