@@ -19,7 +19,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "2.5.0.0",
     "LastUpdated": 1696380806,
-    "DownloadCount": 1,
+    "DownloadCount": 917,
     "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/2.5.0.0/latest.zip",
     "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/2.5.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/2.5.0.0/latest.zip"
@@ -43,16 +43,15 @@
     ],
     "InternalName": "MinionRoulette",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 8,
     "LoadPriority": 0,
     "Changelog": "",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "1.1.2.3",
-    "LastUpdated": 1674001897,
-    "DownloadCount": 717,
-    "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
-    "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.2.3/latest.zip"
+    "AssemblyVersion": "1.1.3.0",
+    "LastUpdated": 1696452206,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.3.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.3.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.3.0/latest.zip"
   }
 ]
