@@ -17,12 +17,12 @@
     "Changelog": "Click the new Changelog button to see whats new",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "3.0.0.2",
-    "LastUpdated": 1697485157,
-    "DownloadCount": 50568,
-    "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/3.0.0.2/latest.zip",
-    "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/3.0.0.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/3.0.0.2/latest.zip"
+    "AssemblyVersion": "3.0.0.3",
+    "LastUpdated": 1697487246,
+    "DownloadCount": 50395,
+    "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/3.0.0.3/latest.zip",
+    "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/3.0.0.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/3.0.0.3/latest.zip"
   },
   {
     "Author": "Det",
