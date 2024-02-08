@@ -1,11 +1,11 @@
 [
   {
     "Author": "Det",
-    "Name": "Auto Hook",
-    "Punchline": "Makes fishing less (or more) boring",
+    "Name": "(old) Auto Hook",
+    "Punchline": "New Repo: https://puni.sh/plugin/AutoHook",
     "Description": "It hooks the fish for you, can you believe it?",
     "InternalName": "AutoHook",
-    "RepoUrl": "https://github.com/InitialDet/AutoHook",
+    "RepoUrl": "https://puni.sh/plugin/AutoHook",
     "ApplicableVersion": "any",
     "Tags": [
       "Gathering",
@@ -17,12 +17,12 @@
     "Changelog": "Click the new Changelog button to see whats new",
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "AssemblyVersion": "3.0.4.0",
-    "LastUpdated": 1707342672,
-    "DownloadCount": 73719,
-    "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/3.0.4.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/3.0.4.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/3.0.4.0/latest.zip"
+    "AssemblyVersion": "3.0.4.1",
+    "LastUpdated": 1707423483,
+    "DownloadCount": 76670,
+    "DownloadLinkInstall": "https://github.com/InitialDet/AutoHook/releases/download/3.0.4.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/InitialDet/AutoHook/releases/download/3.0.4.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/InitialDet/AutoHook/releases/download/3.0.4.1/latest.zip"
   },
   {
     "Author": "Det",
@@ -49,7 +49,7 @@
     "IsTestingExclusive": "False",
     "AssemblyVersion": "1.1.3.0",
     "LastUpdated": 1696452206,
-    "DownloadCount": 2054,
+    "DownloadCount": 2073,
     "DownloadLinkInstall": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.3.0/latest.zip",
     "DownloadLinkTesting": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.3.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/InitialDet/MinionRoulette/releases/download/1.1.3.0/latest.zip"
