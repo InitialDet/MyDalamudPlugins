@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/InitialDet/MyDalamudPlugins/main/pluginmaster.
 * Enjoy
 
 ## My Plugins
-AutoHook - https://github.com/InitialDet/AutoHook 
+AutoHook - https://github.com/PunishXIV/AutoHook
 
 Minion Roulette - https://github.com/InitialDet/MinionRoulette
 
