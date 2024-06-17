@@ -1,13 +1,6 @@
 [
   {
     "username": "InitialDet",
-    "pluginName": "AutoHook",
-    "repo": "AutoHook",
-    "branch": "main",
-    "configFolder": "AutoHook"
-  },
-  {
-    "username": "InitialDet",
     "pluginName": "MinionRoulette",
     "repo": "MinionRoulette",
     "branch": "main",
